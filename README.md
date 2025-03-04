@@ -30,17 +30,14 @@ Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이�
 
 ## 🛠 Installation & Usage
 ### 1️⃣ 환경 설정
-필요한 라이브러리를 설치합니다.
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 2️⃣ Google Colab 실행
-1. 이 저장소를 클론합니다.
    ```bash
    git clone https://github.com/ssoDTlab/VAE.git
    ```
-2. `notebooks/vae_basic.ipynb` 파일을 Colab에서 열고 실행합니다.
 
 ## 🏆 Results
 ### ✅ MNIST 데이터셋 결과 예시
