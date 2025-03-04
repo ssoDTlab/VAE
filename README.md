@@ -32,9 +32,7 @@ Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이�
 
 ## 🏆 Results
 ### ✅ MNIST 데이터셋 결과 예시
-| Input | Reconstructed |
-|---|---|
-| ![MNIST Input](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png) | ![Reconstructed](https://upload.wikimedia.org/wikipedia/commons/6/61/Autoencoder_mnist.png) |
+![Reconstructed](https://github.com/ssoDTlab/VAE/blob/main/result.png)
 
 ## 🔗 References
 - [Kingma & Welling, 2013 - Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
