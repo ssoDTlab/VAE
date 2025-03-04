@@ -10,7 +10,6 @@ Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이�
 ```
 📦 VAE-Study
  ┣ 📂 notebooks
- ┃ ┣ 📜 vae_basic.ipynb  # VAE 기본 개념 및 구현
  ┃ ┣ 📜 vae_mnist.ipynb  # MNIST 데이터셋을 활용한 VAE 실습
  ┣ 📜 README.md  # 프로젝트 개요 및 설명
  ┣ 📜 requirements.txt  # 필요 라이브러리 목록
