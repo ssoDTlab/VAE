@@ -8,7 +8,7 @@ Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이�
 
 ## 📂 Repository Structure
 ```
-📦 VAE-Study
+📦 VAE
  ┣ 📂 notebooks
  ┃ ┣ 📜 vae_mnist.ipynb  # MNIST 데이터셋을 활용한 VAE 실습
  ┣ 📜 README.md  # 프로젝트 개요 및 설명
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### 2️⃣ Google Colab 실행
 1. 이 저장소를 클론합니다.
    ```bash
-   git clone https://github.com/ssoDTlab/VAE-Study.git
+   git clone https://github.com/ssoDTlab/VAE.git
    ```
 2. `notebooks/vae_basic.ipynb` 파일을 Colab에서 열고 실행합니다.
 
