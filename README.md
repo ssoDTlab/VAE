@@ -28,16 +28,11 @@ Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이�
    - `Reconstruction Loss`: 원본 데이터와 복원된 데이터 간의 차이를 최소화
    - `KL Divergence Loss`: 잠재 분포가 정규 분포를 따르도록 유도
 
-## 🛠 Installation & Usage
-### 1️⃣ 환경 설정
+## 🛠 Installation
+### 환경 설정
 ```bash
 pip install -r requirements.txt
 ```
-
-### 2️⃣ Google Colab 실행
-   ```bash
-   git clone https://github.com/ssoDTlab/VAE.git
-   ```
 
 ## 🏆 Results
 ### ✅ MNIST 데이터셋 결과 예시
