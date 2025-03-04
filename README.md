@@ -28,11 +28,7 @@ Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이�
    - `Reconstruction Loss`: 원본 데이터와 복원된 데이터 간의 차이를 최소화
    - `KL Divergence Loss`: 잠재 분포가 정규 분포를 따르도록 유도
 
-## 🛠 Installation
-### 환경 설정
-```bash
-pip install -r requirements.txt
-```
+
 
 ## 🏆 Results
 ### ✅ MNIST 데이터셋 결과 예시
@@ -44,6 +40,3 @@ pip install -r requirements.txt
 - [Kingma & Welling, 2013 - Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - [TensorFlow VAE Tutorial](https://www.tensorflow.org/tutorials/generative/cvae)
 - [PyTorch VAE Example](https://github.com/pytorch/examples/tree/main/vae)
-
-## 📜 License
-MIT License
