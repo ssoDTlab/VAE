@@ -1,4 +1,4 @@
-# Variational Autoencoder (VAE) Study
+# Variational Autoencoder (VAE) 
 
 
 ## 📌 Introduction
