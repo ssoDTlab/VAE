@@ -4,10 +4,6 @@
 ## 📌 Introduction
 Variational Autoencoder (VAE)는 확률적 생성 모델 중 하나로, 데이터의 잠재 표현(latent representation)을 학습하고 새로운 데이터를 생성할 수 있도록 설계된 신경망입니다.
 
-이 저장소는 VAE에 대한 이론적 개념과 실습 내용을 정리하고, Google Colab에서 실험한 Jupyter Notebook 파일을 포함하고 있습니다.
-
-
-
 ## 🏗 Theory & Concepts
 1. **Autoencoder (AE) vs. Variational Autoencoder (VAE)**
    - AE는 입력 데이터를 압축하고 복원하는 역할을 하지만, VAE는 확률적 분포를 학습하여 새로운 데이터를 생성할 수 있음.
